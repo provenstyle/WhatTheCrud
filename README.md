@@ -1,12 +1,13 @@
 # WhatTheCrud
 
 #Editing
-  In-line
-  Form
+  -In-line
+  -Form
 
 #Concurrency
-  Last in wins
-  Optimistic Concurrency
-
+  -Last in wins
+  -Optimistic Concurrency
 
 #Validation
+  -sync
+  -async
