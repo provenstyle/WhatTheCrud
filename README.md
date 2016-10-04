@@ -1,8 +1,8 @@
 # WhatTheCrud
 
 #Editing
-  -In-line
-  -Form
+  1 In-line
+  2 Form
 
 #Concurrency
   -Last in wins
