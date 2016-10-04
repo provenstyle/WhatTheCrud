@@ -1,6 +1,7 @@
 # WhatTheCrud
 
 ## Naming
+Create, Get, Update, Remove
 
 ##Editing
   1. In-line
@@ -14,6 +15,6 @@
   1. sync
   2. async
     
-## Client
+##Client
 
 ##Server
