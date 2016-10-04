@@ -1,1 +1,5 @@
 # WhatTheCrud
+
+#Concurrency
+
+#Validation
