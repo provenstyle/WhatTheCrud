@@ -16,6 +16,7 @@ Create, Get, Update, Remove
 ####Search
 #####Tasks
 1. Create search view
+1. Create search controller
 1. Set up paging
 1. Set up sorting
 1. Set up filtering
@@ -23,11 +24,11 @@ Create, Get, Update, Remove
 
 #####Tests
 
-####Single
-
 ###Update
 ####Tasks
+1. Create update controller
 1. Validate before updating
+1. Update list view with the changed data
 
 ####Tests
   1. Valid updates are persisted
@@ -37,6 +38,8 @@ Create, Get, Update, Remove
 
 ###Remove
 ####Tasks
+Confirm before deleting
+Remove from list view after deleting
 
 ####Tests
 
@@ -62,6 +65,11 @@ Create, Get, Update, Remove
 1. Confirm before removing
 
 ####Tests
+
+##Database
+###Tasks
+1. Create entity
+1. Write migration script
 
 ##Features
 
