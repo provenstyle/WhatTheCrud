@@ -46,7 +46,9 @@ Remove from list view after deleting
 ##Server
 ###Create
 #### Tasks
-  1. Validate before creating
+  1. Write the CreateMessage
+  1. Write the CreateHandler
+  1. Write validation
   
 #### Tests
 
@@ -57,12 +59,20 @@ Remove from list view after deleting
 
 ###Update
 ####Tasks
+  1. Write the UpdateMessage
+  1. Write the UpdateHandler
+  1. Write validation
+  1. Check RowVersion before updating
 
 ####Tests
 
 ###Remove
 ####Tasks
-1. Confirm before removing
+  1. Write the RemoveMessage
+  1. Write the RemoveHandler
+  1. Write validation
+  1. Check for dependent records
+  1. Check RowVersion before removing
 
 ####Tests
 
