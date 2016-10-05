@@ -5,25 +5,25 @@ Create, Get, Update, Remove
 
 ##Client
 
-  ###Create
-    ####Tasks
-    1. Validate before creating
+###Create
+####Tasks
+1. Validate before creating
 
-    ####Test
+####Test
 
 ###Get
 
-  ####Search
-    #####Tasks
-      1. Create search view
-      1. Set up paging
-      1. Set up sorting
-      1. Set up filtering
-      1. Allow page size configuration(25, 50, 100)
+####Search
+#####Tasks
+1. Create search view
+1. Set up paging
+1. Set up sorting
+1. Set up filtering
+1. Allow page size configuration(25, 50, 100)
 
-    #####Tests
-    
-  ####Single
+#####Tests
+
+####Single
 
 ###Update
 ####Tasks
