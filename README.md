@@ -12,31 +12,25 @@ Create, Get, Update, Remove
 ####Test
 
 ###Get
-###Tasks
+####Tasks
 
-###Tests
+####Tests
 
 ###Update
-###Tasks
-
-###Tests
+####Tasks
 1. Validate before updating
 
-###Remove
-###Tasks
-
-###Tests
-
-
-###Tasks
-  
-
-###Tests
+####Tests
   1. Valid updates are persisted
   1. List view is also updated
   1. Changing data and then canceling does not affect the original data
   1. Validation is run before updates are saved
-  
+
+###Remove
+####Tasks
+
+####Tests
+
 ##Server
 ###Create
 #### Tasks
@@ -44,27 +38,23 @@ Create, Get, Update, Remove
   
 #### Tests
 
-##Get
-###Tasks
+###Get
+####Tasks
 
-###Tests
+####Tests
 
-##Update
-###Tasks
+###Update
+####Tasks
 
-###Tests
+####Tests
 
-##Remove
-###Tasks
+###Remove
+####Tasks
 1. Confirm before removing
 
-###Tests
-
-
-
+####Tests
 
 ##Features
-
 
 ###Concurrency
   1. Last in wins
