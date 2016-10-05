@@ -3,18 +3,33 @@
 ## Naming
 Create, Get, Update, Remove
 
-##Create
-  1. Validate before creating
+##Client
 
-##Get
+###Create
+####Tasks
+1. Validate before creating
 
-##Update
-###Options
-  1. In-line
-  2. Form
-  
+####Test
+
+###Get
 ###Tasks
-  1. Validate before updating
+
+###Tests
+
+###Update
+###Tasks
+
+###Tests
+1. Validate before updating
+
+###Remove
+###Tasks
+
+###Tests
+
+
+###Tasks
+  
 
 ###Tests
   1. Valid updates are persisted
@@ -22,19 +37,44 @@ Create, Get, Update, Remove
   1. Changing data and then canceling does not affect the original data
   1. Validation is run before updates are saved
   
-##Remove
- 1. Confirm before removing
-
-##Concurrency
-  1. Last in wins
-  2. Optimistic Concurrency
-
-##Validation
-  1. sync
-  2. async
-    
-##Client
-
 ##Server
+###Create
+#### Tasks
+  1. Validate before creating
+  
+#### Tests
 
-##Database
+##Get
+###Tasks
+
+###Tests
+
+##Update
+###Tasks
+
+###Tests
+
+##Remove
+###Tasks
+1. Confirm before removing
+
+###Tests
+
+
+
+
+##Features
+
+
+###Concurrency
+  1. Last in wins
+  1. Optimistic Concurrency
+
+###Editing
+  1. In-line
+  1. Form
+
+###Validation
+  1. sync
+  1. async
+    
