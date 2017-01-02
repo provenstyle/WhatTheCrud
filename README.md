@@ -44,11 +44,19 @@ Remove from list view after deleting
 ####Tests
 
 ##Server
+
+Create two assemblies
+  1. Foo.Data.Api
+  2. Foo.Data
+
 ###Create
 #### Tasks
-  1. Write the CreateMessage
-  1. Write the CreateHandler
-  1. Write validation
+  1. Write the data object `FooData`
+    1. All the properties on the data object should be nullable
+  1. Write the result object `FooResult`
+  1. Write the Create message `CreateFoo`
+  1. Write the Create handler `CreateFooHandler`
+  1. Write validation `CreateFooIntegrity`
   
 #### Tests
 
