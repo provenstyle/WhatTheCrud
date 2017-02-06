@@ -1,0 +1,45 @@
+Server Side with Mediatr
+
+Features
+	Logging
+	Timing
+	Caching
+	ErrorHandling
+	Batching
+	Concurrency
+	Validation
+
+Classes
+data
+
+Create
+	request
+	result
+	handler
+	integrity
+	handlerTest
+	integrityTest
+Get
+	request
+	result
+	handler
+	query
+	handlerTest
+
+Update
+	request
+	result
+	handler
+	integrity
+	query
+	handlerTest
+	integrityTest
+
+Remove
+	request
+	result
+	handler
+	integrity
+	handlerTest
+	integrityTest
+
